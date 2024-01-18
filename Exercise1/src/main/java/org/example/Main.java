@@ -18,10 +18,8 @@ public class Main {
         // Read user's input
         String name = scanner.nextLine();
 
-        // Close scanner
         scanner.close();
 
-        // Print the greeting
         System.out.println("Hello \n" + name);
     }
 }
