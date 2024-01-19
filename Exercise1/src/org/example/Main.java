@@ -12,7 +12,7 @@ public class Main {
         // Create a Scanner obj for reading input
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt the user to enter name:
+        // Prompts user to enter name:
         System.out.println("Enter your name: ");
 
         // Read user's input
