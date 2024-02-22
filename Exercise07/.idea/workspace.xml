@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d255038b-4126-4caa-af3d-b6f3306f5730" name="Changes" comment="">
+    <list default="true" id="500e598d-ef6c-4056-9e94-4f96d3292786" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Exercise1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise2/.idea/workspace.xml" afterDir="false" />
@@ -14,11 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../Exercise5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise5/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise8/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise9/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +33,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2bxF6FhuHRKfD8BlQZlgmMRXsW9" />
+  <component name="ProjectId" id="2biNLacPV52jzIf6Y2ExQSBd1Il" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,17 +42,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d255038b-4126-4caa-af3d-b6f3306f5730" name="Changes" comment="" />
-      <created>1707148648024</created>
+      <changelist id="500e598d-ef6c-4056-9e94-4f96d3292786" name="Changes" comment="" />
+      <created>1706693949571</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707148648024</updated>
+      <updated>1706693949571</updated>
     </task>
     <servers />
   </component>

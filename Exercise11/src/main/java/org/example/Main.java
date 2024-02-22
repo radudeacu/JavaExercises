@@ -4,6 +4,8 @@ Radius = 7.5
 Expected Output
 Perimeter is = 47.12388980384689
 Area is = 176.71458676442586
+Perimetru e 2 * pi * r
+Aria pi * r^2
 */
 package org.example;
 
